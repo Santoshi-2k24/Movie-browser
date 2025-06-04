@@ -1,26 +1,17 @@
-# React 201
+React.js is a popular JavaScript library developed by Facebook for building user interfaces, especially single-page applications (SPAs). It allows developers to create large web applications that can update and render efficiently in response to data changes.
 
-> This is one of 27 modules found in The Ultimate Fullstack Web Development Bootcamp on Udemy.
->
-> **Get it on Udemy.com**
-https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/
+🔑 Key Features: Component-Based Architecture: UI is built using reusable components.
 
-### What is in the React 201 online course?
-You will learn all about:
-* Functional components
-* React state
-* React props
-* React routers
-* RESTful APIs using a free movie database API
+Virtual DOM: Improves performance by updating only the parts of the DOM that change.
 
-> **Reminder**: This is part of a much larger bootcamp on Udemy.
+JSX Syntax: Combines HTML with JavaScript, making code more readable and declarative.
 
-### Who is React 201 for?
-If you already know a little bit about React.js, this course is for you.
+Unidirectional Data Flow: Ensures predictable application behavior.
 
-If you've never touched React.js before, this is _not_ the module you want to take. You should look into React 101 (also found in [The Ultimate Fullstack Web Development Bootcamp on Udemy](https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/))
+Hooks: Functions like useState and useEffect let you manage state and lifecycle in functional components.
 
-### How to get a copy of this code
-1. You can either download this codebase using the Download option on Github.
-2. You can clone this repo onto your computer (but you can't push changes to it)
-3. You can _fork_ this repo, then clone your copy and make all the changes you want to your own copy of this repo (suggested method)
+🔧 Use Cases: Dynamic dashboards
+
+Interactive forms
+
+Real-time data updates
